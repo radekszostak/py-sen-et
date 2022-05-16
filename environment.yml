@@ -1,4 +1,4 @@
-name: sen-et
+name: py-sen-et
 channels:
   - conda-forge
   - defaults
@@ -125,4 +125,4 @@ dependencies:
     - typing-extensions==4.1.1
     - urllib3==1.26.9
     - zipp==3.6.0
-prefix: C:\Users\48794\anaconda3\envs\sen-et
+prefix: C:\Users\48794\anaconda3\envs\py-sen-et
